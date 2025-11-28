@@ -1,116 +1,95 @@
-🧮 Calculadora
+# 🧮 Calculadora
 
-Uma calculadora simples desenvolvida em HTML, CSS e JavaScript, com uma interface limpa e funcional.
-O projeto está disponível online por meio do GitHub Pages:
+Uma calculadora simples desenvolvida em **HTML**, **CSS** e **JavaScript (Vanilla)**, com interface limpa, responsiva e funcional.
 
-👉 Acesse aqui: https://danielmagalhaess.github.io/Calculadora/
+**Demo (GitHub Pages):**  
+👉 https://danielmagalhaess.github.io/Calculadora/
 
-📘 Índice
+---
 
-Sobre o Projeto
+## 📘 Índice
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Pré-requisitos](#-pré-requisitos)
+- [Como Executar Localmente](#-como-executar-localmente)
+- [Como Usar](#-como-usar)
+- [Funcionalidades](#-funcionalidades)
+- [Estrutura dos Arquivos](#-estrutura-dos-arquivos)
+- [Exemplos de Uso](#-exemplos-de-uso)
+- [Solução de Problemas (Troubleshooting)](#-solução-de-problemas-troubleshooting)
+- [Contribuição](#-contribuição)
+- [Licença](#-licença)
+- [Autor](#-autor)
 
-Tecnologias Utilizadas
+---
 
-Como Executar Localmente
+## 📖 Sobre o Projeto
 
-Como Usar
+Este é um projeto de calculadora web que realiza operações matemáticas básicas de forma simples e rápida.  
+O objetivo principal foi praticar manipulação do DOM em JavaScript, organização de código e estilização com CSS, mantendo o projeto leve e responsivo.
 
-Funcionalidades
+---
 
-Estrutura dos Arquivos
+## 🛠 Tecnologias Utilizadas
 
-Contribuição
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
 
-Licença
+---
 
-Autor
+## ✅ Pré-requisitos
 
-📖 Sobre o Projeto
+Nenhum pré-requisito além de um navegador moderno (Chrome, Firefox, Edge, Safari).  
+Se desejar clonar o projeto, é necessário ter o `git` instalado para baixar o repositório.
 
-Este é um projeto de calculadora web que realiza operações matemáticas básicas de forma simples e rápida.
-Foi desenvolvido com o objetivo de praticar conceitos de JavaScript, manipulação do DOM e estilização com CSS.
+---
 
-🛠 Tecnologias Utilizadas
+## 💻 Como Executar Localmente
 
-HTML5
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Danielmagalhaess/Calculadora.git
 
-CSS3
+## Abra o arquivo index.html no seu navegador (duplo clique ou File → Open).
 
-JavaScript (Vanilla)
+## Não é necessário instalar dependências nem rodar servidores.
+## Para desenvolvimento avançado, você pode abrir pelo Live Server (VS Code) para obter recarregamento automático.
 
-💻 Como Executar Localmente
+#📌 Como Usar
 
-Clone o repositório:
+## Clique nos botões numéricos para inserir valores.
 
-git clone https://github.com/Danielmagalhaess/Calculadora.git
+## Clique nos operadores (+ , - , × , ÷) para montar a operação.
 
+## Clique em = para calcular o resultado.
 
-Acesse a pasta:
+## Clique em C para limpar a tela.
 
-cd Calculadora
+## Em algumas implementações, você também pode usar o teclado para digitar números e operadores (dependendo do script.js).
 
+# ✨ Funcionalidades
 
-Abra o arquivo index.html diretamente no navegador.
+## ✔️ Adição
+## ✔️ Subtração
+## ✔️ Multiplicação
+## ✔️ Divisão
+## ✔️ Interface simples e intuitiva
+## ✔️ Projeto leve e rápido
+## ✔️ Disponível online via GitHub Pages
 
-Não é necessário instalar nada adicional.
+# 📂 Estrutura dos Arquivos
+## Calculadora/
+## ├── index.html      # Interface e layout principal
+## ├── style.css       # Estilos da calculadora
+## └── script.js       # Lógica e funções da calculadora
 
-📌 Como Usar
+# 🧾 Exemplos de Uso
 
-Clique nos botões para inserir números e operadores.
+## 12 + 7 = → 19
 
-Utilize o botão = para calcular o resultado.
+## 5 × 6 = → 30
 
-Use C para limpar a tela.
+## 20 ÷ 4 = → 5
 
-Dependendo da implementação, você também pode digitar pelo teclado.
-
-✨ Funcionalidades
-
-✔️ Operações básicas:
-
-Adição
-
-Subtração
-
-Multiplicação
-
-Divisão
-
-✔️ Interface simples e intuitiva
-
-✔️ Layout responsivo
-
-✔️ Projeto leve e rápido
-
-✔️ Disponível online via GitHub Pages
-
-📂 Estrutura dos Arquivos
-Calculadora/
-├── index.html      # Interface e layout principal
-├── style.css       # Estilos da calculadora
-└── script.js       # Lógica e funções da calculadora
-
-🤝 Contribuição
-
-Se quiser contribuir:
-
-Faça um fork do projeto
-
-Crie uma branch:
-
-git checkout -b minha-feature
-
-
-Faça suas alterações e envie um pull request
-
-Sugestões e melhorias são bem-vindas!
-
-📄 Licença
-
-Este projeto não possui uma licença definida.
-Se quiser, posso adicionar uma (MIT, Apache, GPL, etc.).
-
-👤 Autor
-
-Daniel Magalhães
-GitHub: https://github.com/Danielmagalhaess
+## 9 - 3 = → 6
