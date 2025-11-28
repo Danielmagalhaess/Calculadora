@@ -52,7 +52,7 @@ Se desejar clonar o projeto, é necessário ter o `git` instalado para baixar o 
 - Não é necessário instalar dependências nem rodar servidores.
 - Para desenvolvimento avançado, você pode abrir pelo Live Server (VS Code) para obter recarregamento automático.
 
-##📌 Como Usar
+## 📌 Como Usar
 
 - Clique nos botões numéricos para inserir valores.
 
