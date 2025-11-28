@@ -16,10 +16,6 @@ Uma calculadora simples desenvolvida em **HTML**, **CSS** e **JavaScript (Vanill
 - [Funcionalidades](#-funcionalidades)
 - [Estrutura dos Arquivos](#-estrutura-dos-arquivos)
 - [Exemplos de Uso](#-exemplos-de-uso)
-- [Solução de Problemas (Troubleshooting)](#-solução-de-problemas-troubleshooting)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-- [Autor](#-autor)
 
 ---
 
@@ -51,45 +47,45 @@ Se desejar clonar o projeto, é necessário ter o `git` instalado para baixar o 
    ```bash
    git clone https://github.com/Danielmagalhaess/Calculadora.git
 
-## Abra o arquivo index.html no seu navegador (duplo clique ou File → Open).
+- Abra o arquivo index.html no seu navegador (duplo clique ou File → Open).
 
-## Não é necessário instalar dependências nem rodar servidores.
-## Para desenvolvimento avançado, você pode abrir pelo Live Server (VS Code) para obter recarregamento automático.
+- Não é necessário instalar dependências nem rodar servidores.
+- Para desenvolvimento avançado, você pode abrir pelo Live Server (VS Code) para obter recarregamento automático.
 
-#📌 Como Usar
+##📌 Como Usar
 
-## Clique nos botões numéricos para inserir valores.
+- Clique nos botões numéricos para inserir valores.
 
-## Clique nos operadores (+ , - , × , ÷) para montar a operação.
+- Clique nos operadores (+ , - , × , ÷) para montar a operação.
 
-## Clique em = para calcular o resultado.
+- Clique em = para calcular o resultado.
 
-## Clique em C para limpar a tela.
+- Clique em C para limpar a tela.
 
-## Em algumas implementações, você também pode usar o teclado para digitar números e operadores (dependendo do script.js).
+- Em algumas implementações, você também pode usar o teclado para digitar números e operadores (dependendo do script.js).
 
-# ✨ Funcionalidades
+## ✨ Funcionalidades
 
-## ✔️ Adição
-## ✔️ Subtração
-## ✔️ Multiplicação
-## ✔️ Divisão
-## ✔️ Interface simples e intuitiva
-## ✔️ Projeto leve e rápido
-## ✔️ Disponível online via GitHub Pages
+- ✔️ Adição
+- ✔️ Subtração
+- ✔️ Multiplicação
+- ✔️ Divisão
+- ✔️ Interface simples e intuitiva
+- ✔️ Projeto leve e rápido
+- ✔️ Disponível online via GitHub Pages
 
-# 📂 Estrutura dos Arquivos
-## Calculadora/
-## ├── index.html      # Interface e layout principal
-## ├── style.css       # Estilos da calculadora
-## └── script.js       # Lógica e funções da calculadora
+## 📂 Estrutura dos Arquivos
+- Calculadora/
+- ├── index.html      # Interface e layout principal
+- ├── style.css       # Estilos da calculadora
+- └── script.js       # Lógica e funções da calculadora
 
-# 🧾 Exemplos de Uso
+## 🧾 Exemplos de Uso
 
-## 12 + 7 = → 19
+- 12 + 7 = → 19
 
-## 5 × 6 = → 30
+- 5 × 6 = → 30
 
-## 20 ÷ 4 = → 5
+- 20 ÷ 4 = → 5
 
-## 9 - 3 = → 6
+- 9 - 3 = → 6
